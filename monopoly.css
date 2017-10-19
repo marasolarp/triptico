@@ -1,0 +1,75 @@
+.principio{
+	background-color: yellow;
+	width: 50%;
+	height:20%;
+	border: 1px solid black;
+	position:relative;
+	top: 5px;
+	text-align: center;
+	float: absolute;
+
+}
+.columna1{
+	background-color: white;
+	width: 15%;
+	height:500px;
+	border: 1px	solid black;
+	position:relative;
+	/*top: 14px;
+	left: 100px;*/
+	float:left;
+}
+.imagen1{
+	width:250px; 
+     height:250px;		
+     position: relative;
+	float: left;
+
+}
+.columna2{
+	background-color: white;
+	width: 20%;
+	height:500px;
+	border: 1px solid black;
+	position:relative;
+	/*top:20px;
+	left: 440px;*/
+	float: left;
+}
+.columna3{
+	background-color: white;
+	width: 15%;
+	height:500px;
+	border: 1px solid black;
+	position:relative;
+	/*top:3px;*/
+	float:left; 
+}
+.imagen2{
+	width:250px; 
+     height:250px;		
+     position: relative;
+	float: left;
+}
+.fin{
+	text-align: center ;
+}
+h2,h3{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+
+.final{
+	background-color: yellow;
+	width: 50%;
+	height:20%;
+	border: 1px solid black;
+	position:relative;
+	bottom: 3px;
+	text-align: center;
+	clear:both;	
+}
+/*.clearfix 
+    overflow: auto;*/
